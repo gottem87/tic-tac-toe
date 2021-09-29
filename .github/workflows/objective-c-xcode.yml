@@ -1,6 +1,6 @@
 name: tic tac toe
 
-on: www.tictactoe.com
+on: www.tictactoe.com/Scotts_tictactoe
   push: 4
     branches: [ main ]
   pull_request: 
